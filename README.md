@@ -1,4 +1,4 @@
-# student-management-angolar-nodejs
+# student-management-angular-nodejs
 
 ## Solution Description
 1.	Client Side – I have used the angular framework.
